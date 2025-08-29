@@ -12,7 +12,7 @@ import { faLightbulb } from '@fortawesome/free-solid-svg-icons';
 
 // Functions
 function btnGithub() {
-  window.open('https://github.com/landon262547', '_blank');
+  window.open('https://github.com/NETiSACK', '_blank');
 }
 function btnToggleDarkMode() {
   if (ui("mode") == "dark") {
